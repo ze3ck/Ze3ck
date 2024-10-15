@@ -24,5 +24,6 @@
     <img src="https://img.icons8.com/?size=64&id=63777&format=png&color=000000"/>
     <img src="https://img.icons8.com/?size=64&id=4VVL78edhbW9&format=png&color=000000"/>
     <img src="https://img.icons8.com/color/64/000000/office-365.png"/>
+    <img src="https://img.icons8.com/?size=64&id=cdYUlRaag9G9&format=png&color=000000"/>
     <img src="https://img.icons8.com/color/64/000000/visual-studio-code-2019.png"/>
  </div>
