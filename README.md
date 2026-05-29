@@ -5,7 +5,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer;Cybersecurity+Enthusiast;Full+Stack+Developer" alt="Typing SVG" /></a>
 </p>
 <br>
-- (Chapapp) Second github account: https://github.com/bleytonm
 
  <div align="center">
     <h3 align="center">Lenguajes y Softwares:</h3>
